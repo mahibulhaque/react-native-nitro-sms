@@ -26,6 +26,8 @@
       "dependencies": {
         "react": "19.2.0",
         "react-native": "0.83.1",
+        "react-native-nitro-modules": "^0.32.0",
+        "react-native-nitro-sms": "workspace:*",
         "react-native-safe-area-context": "^5.5.2",
       },
       "devDependencies": {
